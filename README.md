@@ -7,11 +7,11 @@
 
 ---
 
-## 👋 Who Is Professor Johnny?
+## 👋 Who Is 1man-army?
 
 > 💀 *“Ghost in the Ops. Phantom in the Code.”*
 
-- 🧠 I am **@1man-army**, aka **Professor Johnny (PJxAI)**
+- 🧠 I am **@1man-army**, aka **PJxAI**
 - 🕵️ I craft: **AI-based ops agents, C2 chains, neural recon bots**
 - 🔬 Learning: **LLM chaining**, **OS persistence**, **agent mimicry**
 - 🤝 Seeking: **Red/purple AI collabs**, **stealth tooling research**
